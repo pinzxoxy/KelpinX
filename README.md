@@ -1,0 +1,2 @@
+# KelpinX
+Project belajar pertama
